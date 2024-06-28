@@ -23,7 +23,7 @@ O projeto consiste em um arquivo HTML, um arquivo CSS e um arquivo JavaScript:
 1. **Clonar o repositório**
 
    ```sh
-   git clone https://github.com/ciphercleo/nome-do-repositorio.git
+   git clone https://github.com/ciphercleo/carrinho-compras.git
    cd nome-do-repositorio
 
 2. **Navegar até o diretório do projeto**
